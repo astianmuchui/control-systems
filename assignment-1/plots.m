@@ -1,4 +1,5 @@
 % Control III - Assignment 1
+%% Sebastian Muchui SCP222-1166/2022
 % Analysis and Design of State Space Controller for G(s) = 10/((s+1)(s+2)(s+3))
 
 close all;
